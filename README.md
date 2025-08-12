@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on beginner-friendly open-source projects.
 - 💬 Ask me about my learning journey, logic building, or beginner project ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joyce-cabral-8b9058331/) | [Email](joycemayara.cabral@email.com)
-- 🌟 Pronouns: he/him (or adapt)
+- 🌟 Pronouns:she/her
 - 🎉 Fun fact: I once “fixed” a bug by accident and then spent an hour figuring out how I did it.
 
 ---
